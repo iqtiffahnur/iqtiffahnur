@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**iqtiffahnur/iqtiffahnur** is a ✨ _special_ ✨ repository
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Software development tasks using Python<br><br>Strengthening problem-solving, debugging, and coding best practices<br><br>Supporting IT and system-related operations<br><br>👯 I’m looking to collaborate on<br><br>Entry-level to intermediate software development projects<br><br>Practical projects that reflect real industry use cases<br><br>Team-based projects where I can learn and contribute<br><br>🤝 I’m looking for help with<br><br>Improving code quality and software design<br><br>Understanding industry best practices and workflows<br><br>Gaining exposure to real-world development environments<br><br>🌱 I’m currently learning<br><br>Python for real-world applications<br><br>Software development fundamentals and clean coding principles<br><br>Exploring programming languages and technologies that are currently widely used in the industry<br><br>💬 Ask me about<br><br>Python fundamentals<br><br>Learning programming as a beginner<br><br>IT support and basic technical troubleshooting<br><br>⚡ Fun fact<br><br>I enjoy continuously learning new technologies and adapting to industry trends
 
